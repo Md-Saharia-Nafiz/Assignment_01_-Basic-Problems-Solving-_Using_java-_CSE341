@@ -27,8 +27,6 @@ Different problems are implemented to develop fundamental programming skills. Th
 ✅ Decision Making – Uses if-else and switch-case for different conditions and operations.
 ✅ Loop-Based Processing – Uses loops to perform repetitive calculations and process data efficiently.
 
-
-
 ## 🔔Purpose :
 
 To develop basic problem-solving skills using Java programming. To understand the fundamental concepts of Java programming. To practice variables, data types, operators, and expressions. To learn the use of conditional statements and loops in solving problems. To perform basic operations on numbers, characters, and strings. To improve logical thinking through different programming problems. To build a strong foundation for solving more complex programming problems.
